@@ -1,4 +1,4 @@
-spring-data-jpa-course
+Student Database using Spring Data JPA and Spring Boot
 ![image](https://github.com/nikipr1999/Spring-JPA-Student-DB/assets/44407046/abbe2a6e-ff82-4ace-97c8-a673fecc3255)
 
 
